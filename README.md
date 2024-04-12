@@ -4,16 +4,20 @@
 To write a python program to find the distance two 2 points
 ## ALGORITHM:
 ### Step 1: 
+start the program
 ### Step 2: 
+Assign the value of second variable to a temporary variable
 ### Step 3: 
 Substitute the values in the distance formula  ![formula](/formula.JPG)
 ### Step 4: 
+Print both the values it would be interchanged
 ### Step 5: 
-
-Name:Santhosh G
-Refernce No:21223240152
+End program
 ### PROGRAM:
 ```
+#Program to swap two values.
+#Developed by: Santhosh G
+#RegisterNumber:212223240152
 import math
 l1=[4,2]
 l2=[10,6]
